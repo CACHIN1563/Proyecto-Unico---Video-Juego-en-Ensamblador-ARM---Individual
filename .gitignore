@@ -1,0 +1,8 @@
+# Build objects
+*.o
+*.obj
+
+# Temporary files
+*.tmp
+*.bak
+*~
